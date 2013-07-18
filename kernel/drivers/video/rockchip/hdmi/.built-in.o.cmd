@@ -1,0 +1,1 @@
+cmd_drivers/video/rockchip/hdmi/built-in.o :=  ../jb/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/bin/arm-eabi-ld.bfd -EL    -r -o drivers/video/rockchip/hdmi/built-in.o drivers/video/rockchip/hdmi/hdmi-core.o drivers/video/rockchip/hdmi/hdmi-lcdc.o drivers/video/rockchip/hdmi/hdmi-edid.o drivers/video/rockchip/hdmi/hdmi-sysfs.o drivers/video/rockchip/hdmi/it66121/built-in.o 
